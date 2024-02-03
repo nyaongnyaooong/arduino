@@ -1,6 +1,0 @@
-{
-    "board": "arduino:avr:leonardo",
-    "port": "COM8",
-    "sketch": "src\\serial.ino",
-    "programmer": "avrispmkii"
-}
