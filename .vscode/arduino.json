@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:leonardo",
+    "port": "COM5",
+    "sketch": "src\\blink.ino",
+    "programmer": "avrispmkii"
+}
