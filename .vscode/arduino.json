@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:leonardo",
-    "port": "COM5",
-    "sketch": "src\\blink.ino",
+    "port": "COM8",
+    "sketch": "src\\serial.ino",
     "programmer": "avrispmkii"
 }
